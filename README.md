@@ -2,6 +2,8 @@
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![mobile](https://github.com/miteshp98/single-price-grid-component-master/assets/145320555/1c914041-63ef-4bb4-8057-22fccc6a340f)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -27,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL ](https://github.com/miteshp98/single-price-grid-component-master)
+- Live Site URL: [ live site URL ](https://miteshp98.github.io/single-price-grid-component-master/)
 
 ## My process
 
